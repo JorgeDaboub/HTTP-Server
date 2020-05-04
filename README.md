@@ -11,17 +11,6 @@ This is the [Final Project] for [CSE 20289 Systems Programming (Spring 2020)].
 
 - https://drive.google.com/open?id=1k7DILOFDgEi65_CTDdxmiiAUJamJAmw9
 
-## GURU POINTS
-
-- VPS -> https://drive.google.com/file/d/1vyaoL7kj4jU9o6tR_OvE0alqmIDMtFbo/view?usp=sharing
-- Bootstrap -> in handler.c
-
-
-## Errata
-
-No known problems with the final outcome!
-
-
 ## Contributions
 
 Enumeration of the contributions of each group member.
